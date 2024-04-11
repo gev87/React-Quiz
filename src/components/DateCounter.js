@@ -1,6 +1,6 @@
 import { useReducer } from "react";
 
-const initialState = { count: 0, step: 1 };
+const initialState = { count: 0, step: 1};
 
 function reducer(state, action) {
  
