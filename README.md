@@ -1,3 +1,18 @@
+React Quiz offers an engaging challenge with 15 questions about React, providing instant feedback on correct answers. Upon completion, it tallies and displays your total points earned. 
+what do the following here:
+
+- we create local server from which we fetch the JSON from React js. It means that we run both front and the server to get data.
+- The application's state logic is elegantly managed through the **useReducer** hook, centralizing state management for improved readability and maintainability. 
+- we create <DateCounter/> component to manipulate with builtin new Date() javscript object.
+- we have a cohesive and attractive design, thanks to centralized styling defined in the index.css file, ensuring a visually appealing and user-friendly interface.
+
+   
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,7 +46,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
